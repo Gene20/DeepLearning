@@ -101,11 +101,4 @@ def classifyPerson():
     print "使用KNN算法预测该男士是否适合约会？",resultList[theResult-1]
     
 #classifyPerson()    
- 
-
-
-
-    
-
-    
-    
+      

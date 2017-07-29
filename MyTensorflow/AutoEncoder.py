@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-project:4.2TensorFlow实现自编码器
+project:TensorFlow实现自编码器
 @Author:Gene
 @Github:https://github.com/Gene20/DeepLearning
 @Email:GeneWithyou@gamil.com

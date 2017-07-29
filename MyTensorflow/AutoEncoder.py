@@ -121,5 +121,5 @@ for epoch in range(training_epochs):
         print('Epoch:','%04d'%(epoch+1),'cost=',
               '{:9f}'.format(avg_cost))
               
-
+ 
     
